@@ -1,0 +1,9 @@
+{
+  "name": "openmap",
+  "version": "1.0.0",
+  "description": "Find local services and look up UK companies with OpenMap: plumbers, cleaners, tutors, coaches and more across the UK, plus public Companies House facts.",
+  "author": { "name": "OpenMap.AI LTD", "email": "support@openmap.ai", "url": "https://openmap.ai" },
+  "homepage": "https://openmap.ai/connect",
+  "license": "Proprietary",
+  "keywords": ["local services", "uk", "companies house", "tradespeople", "london"]
+}

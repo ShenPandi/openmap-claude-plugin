@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "openmap": {
+      "type": "http",
+      "url": "https://openmap.ai/api/mcp"
+    }
+  }
+}

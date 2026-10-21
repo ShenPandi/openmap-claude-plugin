@@ -1,0 +1,11 @@
+{
+  "name": "openmap",
+  "owner": { "name": "OpenMap.AI LTD", "email": "support@openmap.ai" },
+  "plugins": [
+    {
+      "name": "openmap",
+      "source": "./",
+      "description": "Find local services and look up UK companies with OpenMap."
+    }
+  ]
+}
